@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hi there👋, I'm Frederick
 
-<!--
-**FredsephT32/FredsephT32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> </div>
 
-Here are some ideas to get you started:
+### <div align="center">I'm Frederick Torres, I'm a Full-Stack Web Developer in progress 👨‍💻  Studying remotely since 2022🚀</div>
+
+</br>
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
